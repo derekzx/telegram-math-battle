@@ -12,7 +12,7 @@ This bot will help you to win in the telegram math battle game!
 
 1. Run `pip3 install selenium` to install the selenium webdriver package
 
-2. Set path to chrome webdriver (a copy is provided in this repo). Alternatively download [here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+2. Set path to chrome webdriver (a copy for Windows is provided in this repo). Alternatively download [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) for Mac/Linux users.
 
 3. Copy the url of your telegram game into `main.py`. This link is different for everybody.
 

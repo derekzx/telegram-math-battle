@@ -33,6 +33,6 @@ while True:
         button = driver.find_element_by_id("button_wrong")
         button.click()
     
-    if int(driver.find_element_by_id("score_value").text) == 999:
+    if int(driver.find_element_by_id("score_value").text) == 130:
         break
     
